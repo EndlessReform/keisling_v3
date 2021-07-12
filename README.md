@@ -1,16 +1,10 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+# Personal Website v3
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This is v3 of my personal website, built to house my resume, digital garden, blogroll, and various fun utilities. It's built using Gatsby, Tailwind, and Framer Motion and hosted on Netlify. 
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+## Credits
+This site is set in [Basier Circle](https://www.atipofoundry.com/fonts/basier) and [Basier Mono](https://www.atipofoundry.com/fonts/basier-mono) by the Atipo foundry (license available on request).
+This site uses Github's [Octicons](https://primer.style/octicons/packages/react) library and [Mono Icons](https://icons.mono.company/) for all icons except my own logo. Thanks!
 
 ## 🚀 Quick start
 
@@ -88,18 +82,9 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
-## 🎓 Learning Gatsby
+## 🎓 Learning
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
-
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/cloud/)
-
-Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
-
-<!-- AUTO-GENERATED-CONTENT:END -->
+Looking for more guidance? 
+- **Gatsby:** see [official documentation](https://www.gatsbyjs.com/docs)
+- **Tailwind:** see [official docs](https://tailwindcss.com/docs/)
+- **Twin.macro:** see this [lovely guide by Christian Lobaugh](https://christianlobaugh.com/blog/2020/05/create-an-awesome-css-in-js-gatsby-setup-using-emotion-and-tailwind-css/). When in doubt, prefer this over Emotion's [official guide to styled components](https://emotion.sh/docs/styled).
