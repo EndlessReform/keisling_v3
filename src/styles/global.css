@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Basier Circle';
+	src: url('../fonts/basiercircle-regular-webfont.woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Basier Circle';
+	src: url('../fonts/basiercircle-medium-webfont.woff2');
+	font-weight: 500;
+	font-style: medium;
+}
+
+@font-face {
+	font-family: 'Basier Circle';
+	src: url('../fonts/basiercircle-semibold-webfont.woff2');
+	font-weight: 600;
+	font-style: semibold;
+}
+
+@font-face {
+	font-family: 'Basier Circle Mono';
+	src: url('../fonts/basiercirclemono-regular-webfont.woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Basier Circle Mono';
+	src: url('../fonts/basiercirclemono-medium-webfont.woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+
+* {
+  font-family: "Basier Circle", sans-serif;
+  margin: 0;
+  padding: 0;
+}
