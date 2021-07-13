@@ -6,7 +6,7 @@ import Logo from "../Logo/Logo"
 import { MarkGithubIcon } from "@primer/octicons-react"
 
 const Footer = () => (
-  <footer tw="container mx-auto my-6">
+  <footer tw="container mx-auto mt-6 pb-6">
     <hr tw="border-gray border-solid border mb-4" />
     <div tw="flex items-center text-gray">
       <Link to="/" tw="flex items-center text-gray mr-4"><Logo size="1.5rem" /></Link>
